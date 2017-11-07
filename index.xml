@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaochen Zhang on Xiaochen Zhang</title>
+    <link>http://wyywufan.github.io/</link>
+    <description>Recent content in Xiaochen Zhang on Xiaochen Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiaochen Zhang</copyright>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A SLAM based Semantic Indoor Navigation System for Visually Impaired Users</title>
+      <link>http://wyywufan.github.io/publication/smc2015/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://wyywufan.github.io/publication/smc2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive source search in a gradient field</title>
+      <link>http://wyywufan.github.io/publication/assigf/</link>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://wyywufan.github.io/publication/assigf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Source Search Using Force Field Vector Weighted By Received Signal Strength Gradient</title>
+      <link>http://wyywufan.github.io/publication/ijma2013/</link>
+      <pubDate>Sat, 29 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://wyywufan.github.io/publication/ijma2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio source search using force field vectors weighted by received signal strength gradients</title>
+      <link>http://wyywufan.github.io/publication/icma2011/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://wyywufan.github.io/publication/icma2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theseus gradient guide: An indoor transmitter searching approach using received signal strength</title>
+      <link>http://wyywufan.github.io/publication/iros2011/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://wyywufan.github.io/publication/iros2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
